@@ -1,0 +1,62 @@
+(21:44:47) ERR_RTM:hasp driver login = 7
+(21:44:47) INF_LOAD:Starting... First_0
+(21:44:47) INF_RTM:Detected RTM NT(6.2)
+(21:44:47) INF_RTM:Base TRACE MODE 6 Profiler T-Factory + ver. 6.10.2 ver. 6.10.1 
+(21:44:47) INF_LOAD:max channel = 65535
+(21:44:47) INF_LOAD:Load Channels 2(1 - 2) 
+(21:44:47) INF_LOAD:Templates=1 (math=0 sql=0 scr=1 doc=0 pnl=0) 
+(21:44:47) INF_LOAD:Objects = 0
+(21:44:47) INF_RTM:Timer=0.055s CalcLoop=550ms 
+(21:44:47) INF_LOAD:LoadTime=0.02s CalcPeriod=550ms 
+(21:44:47) INF_RTM:available(MB): pm=7549 vm=2047; free(MB): pm=1278 vm=1906 em=0 after load
+(21:44:47) INF_RTM:total use(MB): pm=6271 vm=141 after load
+(21:44:47) INF_RTM:use(MB): pm=23(23) vm=45(45) pf=1 after load
+(21:44:47) INF_RTM:gh:11 uh:6 hh:199 after load
+(21:45:1) INF_IP:hostname is DESKTOP-S9QU4K3 
+(21:45:1) INF_IP:card0 addr=0.0.0.0 
+(21:45:1) INF_IP:card1 addr=192.168.191.209 
+(21:45:1) INF_IP:card2 addr=192.168.225.1 
+(21:45:1) INF_IP:card3 addr=192.168.125.1 
+(21:45:1) INF_IP:card4 addr=192.168.56.1 
+(21:45:1) INF_IP:card5 addr=26.60.112.65 
+(21:45:1) INF_IP:card6 addr=10.8.0.6 
+(21:45:1) INF_IP:card7 addr=192.168.1.120 
+(21:45:1) INF_RTM:start time is 0.068 s 
+(21:45:1) INF_RTM:total use(MB): pm=6374 vm=332 after start
+(21:45:1) INF_RTM:use(MB): pm=93(94) vm=102(103) pf=31966 after start
+(21:45:1) INF_RTM:gh:527 uh:228 hh:555 after start
+(21:45:1) INF_FLT:ModeSwitch at start e15=0000 e18=0000 e20=0000 
+(21:45:1) INF_RTM:mode=2(Work) e15=00 e18=00 e20=00 [src4] 
+(21:45:1) INF_GRAPH:scr:1:popup=0 scrref=0 trend=0,0 update=1 
+(21:45:4) INF_RTM:stoping... = 30
+(21:45:4) INF_RTM:main clc stop 
+(21:45:4) INF_RTM:mode=5(Stop) e15=00 e18=00 e20=00 [src0] 
+(21:45:5) INF_RTM:stop time is 0.86 s 
+(21:45:5) INF_RTM:number of calculation = 2
+(21:45:5) INF_RTM:END OF WORK 
+(21:45:5) INF_RTM:available(MB): pm=7549 vm=2047; free(MB): pm=1278 vm=1906 em=0 after load
+(21:45:5) INF_RTM:total use(MB): pm=6370 vm=331 after load
+(21:45:5) INF_RTM:use(MB): pm=94(94) vm=102(103) pf=238 after load
+(21:45:5) INF_RTM:gh:527 uh:225 hh:548 after load
+(21:45:16) INF_IP:hostname is DESKTOP-S9QU4K3 
+(21:45:16) INF_IP:card0 addr=0.0.0.0 
+(21:45:16) INF_IP:card1 addr=192.168.191.209 
+(21:45:16) INF_IP:card2 addr=192.168.225.1 
+(21:45:16) INF_IP:card3 addr=192.168.125.1 
+(21:45:16) INF_IP:card4 addr=192.168.56.1 
+(21:45:16) INF_IP:card5 addr=26.60.112.65 
+(21:45:16) INF_IP:card6 addr=10.8.0.6 
+(21:45:16) INF_IP:card7 addr=192.168.1.120 
+(21:45:16) INF_RTM:start time is 0.001 s 
+(21:45:16) INF_FLT:ModeSwitch at start e15=0000 e18=0000 e20=0000 
+(21:45:16) INF_RTM:mode=2(Work) e15=00 e18=00 e20=00 [src4] 
+(21:45:16) INF_RTM:total use(MB): pm=6387 vm=332 after start
+(21:45:16) INF_RTM:use(MB): pm=94(94) vm=102(103) pf=622 after start
+(21:45:16) INF_RTM:gh:529 uh:223 hh:554 after start
+(21:45:16) INF_GRAPH:scr:1:popup=0 scrref=0 trend=0,0 update=1 
+(21:45:36) INF_RTM:stoping... = 30
+(21:45:37) INF_RTM:main clc stop 
+(21:45:37) INF_RTM:mode=5(Stop) e15=00 e18=00 e20=00 [src0] 
+(21:45:38) INF_RTM:stop time is 1.349 s 
+(21:45:38) INF_RTM:number of calculation = 34
+(21:45:38) INF_RTM:END OF WORK 
